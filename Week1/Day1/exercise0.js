@@ -64,6 +64,8 @@ let cars = [
   }
   //console.log(sqlStatement);
 
+
+  //EKSTRA TIL REVIEW
   // "reduce()" metoden. 
 
   const numbers = [182, 40, 42];
